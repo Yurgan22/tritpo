@@ -79,7 +79,7 @@ The final product of the test is a standalone application that will be used to d
 **Key Assumptions** contain:
 
 * UI/UX and essential algorithms do require testing but also they require different approaches, which leads to the next assumptions.
-* Tests must support at least one of systems declared in [SDS](https://github.com/raik199x/SDTT/tree/main/SDS), but don't have to support them all.
+* Tests must support at least one of systems declared in [SDS]([https://github.com/raik199x/SDTT/tree/main/SDS](https://github.com/Yurgan22/tritpo/tree/main/SDS), but don't have to support them all.
 * Tests must be integrated with the product's source code so it be carried out at any time during any phase of the software production cycle to detect errors as soon as it's possible.
 * All the errors must be reported to programmers in the convenient text format.
 * For testing algorithms, preloaded data should be used to simplify test design process.

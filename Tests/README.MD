@@ -8,8 +8,8 @@ In case if you decided to run tests on other computer, check paths in test cases
 **Project**: Pseudo-Random Number Generator _"Circus of Blood and Pain"_
 
 **Version**: 0.1  
-**Created**: 24/11/2022  
-**Last Updated**: 24/11/2022  
+**Created**: 08/12/2022  
+**Last Updated**: 08/12/2022  
 **Status**: RELEASE
 
 # Revision and Sign off
@@ -18,10 +18,10 @@ In case if you decided to run tests on other computer, check paths in test cases
 
 | Version | Date       | Author | Description of Change  |
 | ------- | ---------- | ------ | ---------------------- |
-| 0.1     | 24/11/2022 | TA     | Draft created          |
-| 0.2     | 24/11/2022 | TA     | Introduction added     |
-| 0.3     | 04/12/2022 | TA     | Test Strategy added    |
-| 0.4     | 05/12/2022 | TA     | Test Environment added |
+| 0.1     | 08/12/2022 | TA     | Draft created          |
+| 0.2     | 08/12/2022 | TA     | Introduction added     |
+| 0.3     | 11/12/2022 | TA     | Test Strategy added    |
+| 0.4     | 12/12/2022 | TA     | Test Environment added |
 
 ## Reference Documents
 
@@ -29,8 +29,8 @@ In case if you decided to run tests on other computer, check paths in test cases
 
 | Version | Date       | Document name                                                                                                       |
 | ------- | ---------- | ------------------------------------------------------------------------------------------------------------------- |
-| 0.1     | 24/11/2022 | [SRS](https://github.com/raik199x/SDTT/tree/main/SRS) : Pseudo-Random Number Generator _"Circus of Blood and Pain"_ |
-| 0.1     | 24/11/2022 | [SDS](https://github.com/raik199x/SDTT/tree/main/SDS) : Pseudo-Random Number Generator _"Circus of Blood and Pain"_ |
+| 0.1     | 08/12/2022 | [SRS](https://github.com/raik199x/SDTT/tree/main/SRS) : Pseudo-Random Number Generator _"Circus of Blood and Pain"_ |
+| 0.1     | 08/12/2022 | [SDS](https://github.com/raik199x/SDTT/tree/main/SDS) : Pseudo-Random Number Generator _"Circus of Blood and Pain"_ |
 
 # 1 Introduction
 

@@ -29,8 +29,8 @@ In case if you decided to run tests on other computer, check paths in test cases
 
 | Version | Date       | Document name                                                                                                       |
 | ------- | ---------- | ------------------------------------------------------------------------------------------------------------------- |
-| 0.1     | 08/12/2022 | [SRS](https://github.com/raik199x/SDTT/tree/main/SRS) : Pseudo-Random Number Generator _"Circus of Blood and Pain"_ |
-| 0.1     | 08/12/2022 | [SDS](https://github.com/raik199x/SDTT/tree/main/SDS) : Pseudo-Random Number Generator _"Circus of Blood and Pain"_ |
+| 0.1     | 08/12/2022 | [SRS](https://github.com/Yurgan22/tritpo/tree/main/SRS) : Pseudo-Random Number Generator _"Circus of Blood and Pain"_ |
+| 0.1     | 08/12/2022 | [SDS](https://github.com/Yurgan22/tritpo/tree/main/SDS) : Pseudo-Random Number Generator _"Circus of Blood and Pain"_ |
 
 # 1 Introduction
 
